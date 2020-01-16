@@ -1,0 +1,26 @@
+amazon:
+  aws:
+    accesskey: AKIAR5LE4ZF37UDZF2BT
+    secretkey: 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
+    region: us-east-1
+  dynamodb:
+    endpoint: https://dynamodb.us-east-1.amazonaws.com
+   
+cloud:
+  aws:
+   region:
+    static : us-east-1
+   
+   stack:
+    auto : false 
+      
+ 
+ 
+katharsis:
+  resourcePackage: com.poc.serviceRepository
+  domainName: http://localhost:9090/cashBackFinder
+  pathPrefix: /api
+server:
+  port: 8090
+  servlet:
+    context-path: /cashBackFinder
