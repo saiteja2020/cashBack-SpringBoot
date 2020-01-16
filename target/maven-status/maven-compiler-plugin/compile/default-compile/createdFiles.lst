@@ -1,0 +1,11 @@
+com\poc\application\CashBackFinderApplication.class
+com\poc\config\TomcatConfig.class
+com\poc\KatharsisRepository\PercentagesKatharsisRepositoryImpl.class
+com\poc\model\Trends.class
+com\poc\KatharsisRepository\TrendsRepositoryImpl.class
+com\poc\DynamoDBRepository\PercentagesDynamoDBRepositoryImpl.class
+com\poc\config\TomcatConfig$1.class
+com\poc\config\TomcatConfig$EmbeddedTomcatCustomizer.class
+com\poc\model\Percentages.class
+com\poc\config\KatharsisController.class
+com\poc\config\DynamoDBConfig.class
