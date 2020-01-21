@@ -1,7 +1,5 @@
 amazon:
   aws:
-    accesskey: AKIAR5LE4ZF37UDZF2BT
-    secretkey: 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
     region: us-east-1
   dynamodb:
     endpoint: https://dynamodb.us-east-1.amazonaws.com
